@@ -1,0 +1,19 @@
+{
+  "name": "code-storage-backend",
+  "version": "1.0.0",
+  "description": "Proyecto de la clase de Desarrollo Web I PAC 2021",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antioch28/proyecto-code-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antioch28/proyecto-code-storage/issues"
+  },
+  "homepage": "https://github.com/antioch28/proyecto-code-storage#readme"
+}
